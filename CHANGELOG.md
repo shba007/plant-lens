@@ -1,5 +1,11 @@
 # plant-lens
 
+## 0.4.4
+
+### Patch Changes
+
+- e186983: refactor: update Docker configuration and dependencies for improved performance
+
 ## 0.4.3
 
 ### Patch Changes
